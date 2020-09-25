@@ -11,10 +11,14 @@ SOME NEW CONTENT FROM THE TEMPLATE!
 SOME NEW CONTENT FROM THE TEMPLATE!
 SOME NEW CONTENT FROM THE TEMPLATE!
 
-<!--- content_block_start -->
+<!--- start of user content -->
 <!--- This is a region editable that will never not be overwritten -->
-## Custom content block
-Please edit-me to add some custom content.
-<!--- content_block_end -->
+## EDITABLE REGION BLOCK!
+Yoorayy!!! This will never be overwritten by jiinja! 
+Yoorayy!!! This will never be overwritten by jiinja! 
+Yoorayy!!! This will never be overwritten by jiinja! 
+Yoorayy!!! This will never be overwritten by jiinja! 
+Yoorayy!!! This will never be overwritten by jiinja! 
+<!--- end of user content -->
 
 Copyright C 2000-2020 FooBar.com
