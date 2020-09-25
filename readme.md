@@ -8,8 +8,12 @@ Main topics of this document:
 
 <!--- content_block_start -->
 <!--- This is a region editable that will never not be overwritten -->
-## Custom content block
-Please edit-me to add some custom content.
+## EDITABLE REGION BLOCK!
+Yoorayy!!! This will never be overwritten by jiinja! 
+Yoorayy!!! This will never be overwritten by jiinja! 
+Yoorayy!!! This will never be overwritten by jiinja! 
+Yoorayy!!! This will never be overwritten by jiinja! 
+Yoorayy!!! This will never be overwritten by jiinja! 
 <!--- content_block_end -->
 
 Copyright C 2000-2020 FooBar.com
